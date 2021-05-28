@@ -66,25 +66,25 @@ public class LoginTest extends TestBase {
 		Assert.assertTrue(lp.getPlaceholders());
 	}
 	
-	@Test(priority=8)
+	@Test(priority=8,enabled=false)
 	public void checkLoginSuccessfullyDone()
 	{	
 		Assert.assertTrue(lp.loginSuccessfully());
 		dp.logoutBtn.click();
 	}
-	@Test(priority=9)
+	@Test(priority=9,enabled=false)
 	public void verifyBlankEmailPasswordErrorMsg()
 	{  
 		Assert.assertTrue(lp.getErrorMsgForBlankEntry());
 	}
 	
-	@Test(priority=10)
+	@Test(priority=10,enabled=false)
 	public void verifyInvalidLoginEntryErrorMessage()
 	{
 		Assert.assertTrue(lp.getErrorMsgForInvalidEntry());
 	}
 	
-	@Test(priority=11)
+	@Test(priority=11,enabled=false)
 	public void checkRegistrationTitle()
 	{
 		Assert.assertTrue(lp.getTitleOfRegisterPg());
