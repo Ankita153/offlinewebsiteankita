@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.jbk.test.DashboardTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="checkUrl"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.jbk.test.DashboardTest -->
+      <class name="com.jbk.test.LoginTest">
+        <methods>
+          <include name="validateTilte"/>
+          <include name="openBrower"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.jbk.test.LoginTest -->
+      <class name="com.jbk.test.UsefulLinkTest">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="verifyUrl"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.jbk.test.UsefulLinkTest -->
+      <class name="com.jbk.test.OperatorTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifycontactNoLength"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- com.jbk.test.OperatorTest -->
+      <class name="com.jbk.test.RegisterTest">
+        <methods>
+          <include name="verifyUrl"/>
+          <include name="OpenBrowser"/>
+          <include name="CloseBrowser"/>
+        </methods>
+      </class> <!-- com.jbk.test.RegisterTest -->
+      <class name="com.jbk.test.DownloadTest">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="verifyUrl"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.jbk.test.DownloadTest -->
+      <class name="com.jbk.test.UserTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyUrl"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- com.jbk.test.UserTest -->
+      <class name="com.jbk.test.AddUserTest">
+        <methods>
+          <include name="addUser"/>
+          <include name="openBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.jbk.test.AddUserTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

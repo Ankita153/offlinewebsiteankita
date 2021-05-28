@@ -1,0 +1,215 @@
+2021-05-24 19:19:48,244  INFO [main] LoginPage:33 - Validating title
+2021-05-24 19:19:52,160  INFO [main] TestBase:47 - 
+2021-05-24 19:19:52,197  INFO [main] TestBase:49 - print actual data..JavaByKiran | Dashboard
+2021-05-24 19:19:52,198  INFO [main] TestBase:52 - 
+2021-05-24 19:19:52,199  INFO [main] TestBase:55 - Title is match
+2021-05-26 14:10:01,851  INFO [main] OperatorPage:36 - Faculties having 10 digit Mobile No. : 
+2021-05-26 14:10:02,187  INFO [main] OperatorPage:47 - Kiran
+2021-05-26 14:10:02,450  INFO [main] OperatorPage:47 - Neelam
+2021-05-26 14:10:02,623  INFO [main] OperatorPage:47 - Seema
+2021-05-26 14:10:02,794  INFO [main] OperatorPage:47 - Varsha
+2021-05-26 14:10:02,988  INFO [main] OperatorPage:47 - Darshit
+2021-05-26 14:10:33,147  INFO [main] OperatorPage:106 - Faculties available on WhatsApp : 
+2021-05-26 14:10:33,430  INFO [main] OperatorPage:117 - Kiran
+2021-05-26 14:10:33,621  INFO [main] OperatorPage:117 - Neelam
+2021-05-26 14:10:33,805  INFO [main] OperatorPage:117 - Seema
+2021-05-26 14:10:33,977  INFO [main] OperatorPage:117 - Varsha
+2021-05-26 14:10:34,162  INFO [main] OperatorPage:117 - Darshit
+2021-05-26 14:10:55,249  INFO [main] OperatorPage:139 - Faculties available on Phone Call : 
+2021-05-26 14:10:55,610  INFO [main] OperatorPage:150 - Neelam
+2021-05-26 14:11:02,090  INFO [main] OperatorPage:150 - Seema
+2021-05-26 14:11:02,351  INFO [main] OperatorPage:150 - Varsha
+2021-05-26 14:11:17,101  INFO [main] OperatorPage:172 - Faculties available on both WhatsApp & Phone Call : 
+2021-05-26 14:11:17,598  INFO [main] OperatorPage:183 - Neelam
+2021-05-26 14:11:17,787  INFO [main] OperatorPage:183 - Seema
+2021-05-26 14:11:17,966  INFO [main] OperatorPage:183 - Varsha
+2021-05-26 14:11:33,716  INFO [main] OperatorPage:204 - Faculties available on WhatsApp but not on Phone Call : 
+2021-05-26 14:11:33,997  INFO [main] OperatorPage:217 - Kiran
+2021-05-26 14:11:34,373  INFO [main] OperatorPage:217 - Darshit
+2021-05-26 14:11:47,710  INFO [main] OperatorPage:241 - Faculties available on Monday : 
+2021-05-26 14:11:48,038  INFO [main] OperatorPage:252 - Kiran
+2021-05-26 14:11:48,206  INFO [main] OperatorPage:252 - Neelam
+2021-05-26 14:11:48,382  INFO [main] OperatorPage:252 - Seema
+2021-05-26 14:11:48,534  INFO [main] OperatorPage:252 - Varsha
+2021-05-26 14:12:02,003  INFO [main] OperatorPage:273 - Faculties not available on Sunday : 
+2021-05-26 14:12:02,387  INFO [main] OperatorPage:284 - Neelam
+2021-05-26 14:12:02,556  INFO [main] OperatorPage:284 - Seema
+2021-05-26 14:17:35,306  INFO [main] DashboardPage:68 - Url is not matched
+2021-05-26 14:17:35,403  INFO [main] DashboardPage:84 - Title not matched
+2021-05-26 14:17:35,727  INFO [main] DashboardPage:92 - User Image is displayed
+2021-05-26 14:17:35,872  INFO [main] DashboardPage:108 - Corner Heading is matched
+2021-05-26 14:20:13,703  INFO [main] DashboardPage:68 - Url is not matched
+2021-05-26 14:20:13,791  INFO [main] DashboardPage:84 - Title not matched
+2021-05-26 14:20:14,185  INFO [main] DashboardPage:92 - User Image is displayed
+2021-05-26 14:20:14,353  INFO [main] DashboardPage:108 - Corner Heading is matched
+2021-05-26 14:22:53,609  INFO [main] DashboardPage:63 - Url is matched
+2021-05-26 14:22:53,679  INFO [main] DashboardPage:79 - Title is matched
+2021-05-26 14:22:53,973  INFO [main] DashboardPage:92 - User Image is displayed
+2021-05-26 14:22:54,103  INFO [main] DashboardPage:108 - Corner Heading is matched
+2021-05-26 14:22:54,226  INFO [main] DashboardPage:186 - Main Heading is matched
+2021-05-26 14:22:55,675  INFO [main] DashboardPage:339 - Dashboard
+2021-05-26 14:22:55,788  INFO [main] DashboardPage:339 - Users
+2021-05-26 14:22:55,857  INFO [main] DashboardPage:339 - Operators
+2021-05-26 14:22:55,934  INFO [main] DashboardPage:339 - Useful Links
+2021-05-26 14:22:56,010  INFO [main] DashboardPage:339 - Downloads
+2021-05-26 14:22:56,164  INFO [main] DashboardPage:339 - Logout
+2021-05-26 14:23:02,789  INFO [main] DashboardPage:247 - Users Menu is working properly
+2021-05-26 14:23:05,220  INFO [main] DashboardPage:206 - Useful Links Menu is working properly
+2021-05-26 14:23:07,682  INFO [main] DashboardPage:268 - Operators Menu is working properly
+2021-05-26 14:23:11,139  INFO [main] DashboardPage:225 - Downloads Menu is working properly
+2021-05-26 14:23:31,963  INFO [main] DashboardPage:353 - New window title is matched
+2021-05-27 11:11:26,050  INFO [main] AddUserPage:85 - --Select State--
+2021-05-27 11:11:26,162  INFO [main] AddUserPage:85 - Maharashtra
+2021-05-27 11:11:26,282  INFO [main] AddUserPage:85 - Delhi
+2021-05-27 11:11:26,418  INFO [main] AddUserPage:85 - HP
+2021-05-27 11:11:26,537  INFO [main] AddUserPage:85 - Punjab
+2021-05-27 11:16:40,501  INFO [main] UsefulLinksPage:162 - Schedule
+2021-05-27 11:16:40,607  INFO [main] UsefulLinksPage:162 - Video Lactures All Topics
+2021-05-27 11:16:40,690  INFO [main] UsefulLinksPage:162 - Selenium Interview Questions
+2021-05-27 11:16:40,754  INFO [main] UsefulLinksPage:162 - Java Interview Questions
+2021-05-27 11:16:40,834  INFO [main] UsefulLinksPage:162 - Courses
+2021-05-27 11:16:40,904  INFO [main] UsefulLinksPage:162 - Placement
+2021-05-27 11:25:16,665  INFO [main] UsefulLinksPage:153 - Schedule
+2021-05-27 11:25:16,750  INFO [main] UsefulLinksPage:153 - Video Lactures All Topics
+2021-05-27 11:25:16,836  INFO [main] UsefulLinksPage:153 - Selenium Interview Questions
+2021-05-27 11:25:16,908  INFO [main] UsefulLinksPage:153 - Java Interview Questions
+2021-05-27 11:25:16,977  INFO [main] UsefulLinksPage:153 - Courses
+2021-05-27 11:25:17,062  INFO [main] UsefulLinksPage:153 - Placement
+2021-05-27 11:29:16,627  INFO [main] UsefulLinksPage:153 - Schedule
+2021-05-27 11:29:16,772  INFO [main] UsefulLinksPage:153 - Video Lactures All Topics
+2021-05-27 11:29:16,886  INFO [main] UsefulLinksPage:153 - Selenium Interview Questions
+2021-05-27 11:29:16,989  INFO [main] UsefulLinksPage:153 - Java Interview Questions
+2021-05-27 11:29:17,105  INFO [main] UsefulLinksPage:153 - Courses
+2021-05-27 11:29:17,203  INFO [main] UsefulLinksPage:153 - Placement
+2021-05-27 11:34:18,574  INFO [main] UsersPage:67 - true
+2021-05-27 11:34:18,654  INFO [main] UsersPage:67 - true
+2021-05-27 11:34:18,688  INFO [main] UsersPage:67 - true
+2021-05-27 11:34:18,716  INFO [main] UsersPage:67 - true
+2021-05-27 11:34:20,396  INFO [main] UsersPage:472 - [Kimaya, Kiran, Monica, Sagar]
+2021-05-27 11:36:37,091  INFO [main] UsersPage:67 - true
+2021-05-27 11:36:37,111  INFO [main] UsersPage:67 - true
+2021-05-27 11:36:37,128  INFO [main] UsersPage:67 - true
+2021-05-27 11:36:37,142  INFO [main] UsersPage:67 - true
+2021-05-27 11:36:38,291  INFO [main] UsersPage:472 - [Kimaya, Kiran, Monica, Sagar]
+2021-05-27 11:51:10,625  INFO [main] LoginPage:38 - Validating title
+2021-05-27 11:51:14,258  INFO [main] LoginPage:52 - 
+2021-05-27 11:51:14,278  INFO [main] LoginPage:54 - print actual data..JavaByKiran | Dashboard
+2021-05-27 11:51:14,281  INFO [main] LoginPage:57 - 
+2021-05-27 11:51:14,285  INFO [main] LoginPage:60 - Title is match
+2021-05-27 11:51:25,045  INFO [main] LoginPage:73 - actual heading..Java By Kiran
+2021-05-27 11:51:25,077  INFO [main] LoginPage:81 - Heading does not match
+2021-05-27 11:51:38,429  INFO [main] LoginPage:96 - actual subHeading..JAVA | SELENIUM | PYTHON
+2021-05-27 11:51:38,454  INFO [main] LoginPage:105 - Heading does not match
+2021-05-27 11:51:59,713  INFO [main] LoginPage:138 - actual error msg..Please enter email as kiran@gmail.com
+2021-05-27 11:51:59,716  INFO [main] LoginPage:142 - Message is match
+2021-05-27 12:08:59,683  INFO [main] LoginPage:114 - Actual session HeadingSign in to start your session
+2021-05-27 12:08:59,698  INFO [main] LoginPage:121 - heading is match
+2021-05-27 12:09:41,094  INFO [main] LoginPage:96 - actual subHeading..JAVA | SELENIUM | PYTHON
+2021-05-27 12:09:41,142  INFO [main] LoginPage:105 - Heading does not match
+2021-05-27 12:15:49,866  INFO [main] LoginPage:96 - actual subHeading..JAVA | SELENIUM | PYTHON
+2021-05-27 12:15:49,882  INFO [main] LoginPage:102 - heading is match
+2021-05-27 12:30:50,366  INFO [main] LoginPage:157 - Message is match
+2021-05-27 12:35:22,736  INFO [main] AddUserPage:85 - --Select State--
+2021-05-27 12:35:22,820  INFO [main] AddUserPage:85 - Maharashtra
+2021-05-27 12:35:22,898  INFO [main] AddUserPage:85 - Delhi
+2021-05-27 12:35:22,992  INFO [main] AddUserPage:85 - HP
+2021-05-27 12:35:23,054  INFO [main] AddUserPage:85 - Punjab
+2021-05-27 12:36:53,266  INFO [main] DashboardPage:63 - Url is matched
+2021-05-27 12:36:53,345  INFO [main] DashboardPage:79 - Title is matched
+2021-05-27 12:36:53,564  INFO [main] DashboardPage:92 - User Image is displayed
+2021-05-27 12:36:53,685  INFO [main] DashboardPage:108 - Corner Heading is matched
+2021-05-27 12:36:53,782  INFO [main] DashboardPage:186 - Main Heading is matched
+2021-05-27 12:36:54,734  INFO [main] DashboardPage:339 - Dashboard
+2021-05-27 12:36:54,782  INFO [main] DashboardPage:339 - Users
+2021-05-27 12:36:54,829  INFO [main] DashboardPage:339 - Operators
+2021-05-27 12:36:54,876  INFO [main] DashboardPage:339 - Useful Links
+2021-05-27 12:36:54,907  INFO [main] DashboardPage:339 - Downloads
+2021-05-27 12:36:54,954  INFO [main] DashboardPage:339 - Logout
+2021-05-27 12:36:58,962  INFO [main] DashboardPage:247 - Users Menu is working properly
+2021-05-27 12:37:00,287  INFO [main] DashboardPage:206 - Useful Links Menu is working properly
+2021-05-27 12:37:01,648  INFO [main] DashboardPage:268 - Operators Menu is working properly
+2021-05-27 12:37:03,704  INFO [main] DashboardPage:225 - Downloads Menu is working properly
+2021-05-27 12:37:21,750  INFO [main] DashboardPage:353 - New window title is matched
+2021-05-27 12:39:52,059  INFO [main] LoginPage:41 - Validating title
+2021-05-27 12:39:53,824  INFO [main] LoginPage:55 - 
+2021-05-27 12:39:53,846  INFO [main] LoginPage:57 - print actual data..JavaByKiran | Dashboard
+2021-05-27 12:39:53,851  INFO [main] LoginPage:60 - 
+2021-05-27 12:39:53,857  INFO [main] LoginPage:63 - Title is match
+2021-05-27 12:39:53,975  INFO [main] LoginPage:76 - actual heading..
+2021-05-27 12:39:54,006  INFO [main] LoginPage:84 - Heading does not match
+2021-05-27 12:40:04,295  INFO [main] LoginPage:118 - Actual session HeadingKiran
+2021-05-27 12:40:04,295  INFO [main] LoginPage:129 - Heading does not match
+2021-05-27 12:42:06,223  INFO [main] OperatorPage:36 - Faculties having 10 digit Mobile No. : 
+2021-05-27 12:42:06,442  INFO [main] OperatorPage:47 - Kiran
+2021-05-27 12:42:06,582  INFO [main] OperatorPage:47 - Neelam
+2021-05-27 12:42:06,692  INFO [main] OperatorPage:47 - Seema
+2021-05-27 12:42:06,816  INFO [main] OperatorPage:47 - Varsha
+2021-05-27 12:42:06,972  INFO [main] OperatorPage:47 - Darshit
+2021-05-27 12:42:21,783  INFO [main] OperatorPage:106 - Faculties available on WhatsApp : 
+2021-05-27 12:42:22,016  INFO [main] OperatorPage:117 - Kiran
+2021-05-27 12:42:22,172  INFO [main] OperatorPage:117 - Neelam
+2021-05-27 12:42:22,344  INFO [main] OperatorPage:117 - Seema
+2021-05-27 12:42:22,500  INFO [main] OperatorPage:117 - Varsha
+2021-05-27 12:42:22,656  INFO [main] OperatorPage:117 - Darshit
+2021-05-27 12:42:29,433  INFO [main] OperatorPage:139 - Faculties available on Phone Call : 
+2021-05-27 12:42:29,649  INFO [main] OperatorPage:150 - Neelam
+2021-05-27 12:42:29,773  INFO [main] OperatorPage:150 - Seema
+2021-05-27 12:42:29,961  INFO [main] OperatorPage:150 - Varsha
+2021-05-27 12:42:36,880  INFO [main] OperatorPage:172 - Faculties available on both WhatsApp & Phone Call : 
+2021-05-27 12:42:37,089  INFO [main] OperatorPage:183 - Neelam
+2021-05-27 12:42:37,214  INFO [main] OperatorPage:183 - Seema
+2021-05-27 12:42:37,339  INFO [main] OperatorPage:183 - Varsha
+2021-05-27 12:42:44,399  INFO [main] OperatorPage:204 - Faculties available on WhatsApp but not on Phone Call : 
+2021-05-27 12:42:44,593  INFO [main] OperatorPage:217 - Kiran
+2021-05-27 12:42:44,889  INFO [main] OperatorPage:217 - Darshit
+2021-05-27 12:42:51,957  INFO [main] OperatorPage:241 - Faculties available on Monday : 
+2021-05-27 12:42:52,116  INFO [main] OperatorPage:252 - Kiran
+2021-05-27 12:42:52,241  INFO [main] OperatorPage:252 - Neelam
+2021-05-27 12:42:52,397  INFO [main] OperatorPage:252 - Seema
+2021-05-27 12:42:52,568  INFO [main] OperatorPage:252 - Varsha
+2021-05-27 12:43:00,664  INFO [main] OperatorPage:273 - Faculties not available on Sunday : 
+2021-05-27 12:43:00,879  INFO [main] OperatorPage:284 - Neelam
+2021-05-27 12:43:01,004  INFO [main] OperatorPage:284 - Seema
+2021-05-27 12:57:01,997  INFO [main] UsefulLinksPage:153 - Schedule
+2021-05-27 12:57:02,117  INFO [main] UsefulLinksPage:153 - Video Lactures All Topics
+2021-05-27 12:57:02,258  INFO [main] UsefulLinksPage:153 - Selenium Interview Questions
+2021-05-27 12:57:02,381  INFO [main] UsefulLinksPage:153 - Java Interview Questions
+2021-05-27 12:57:02,529  INFO [main] UsefulLinksPage:153 - Courses
+2021-05-27 12:57:02,648  INFO [main] UsefulLinksPage:153 - Placement
+2021-05-27 13:14:49,527  INFO [main] UsersPage:67 - true
+2021-05-27 13:14:49,543  INFO [main] UsersPage:67 - true
+2021-05-27 13:14:49,558  INFO [main] UsersPage:67 - true
+2021-05-27 13:14:49,575  INFO [main] UsersPage:67 - true
+2021-05-27 13:14:50,819  INFO [main] UsersPage:472 - [Kimaya, Kiran, Monica, Sagar]
+2021-05-27 13:41:32,156  INFO [main] LoginPage:41 - Validating title
+2021-05-27 13:41:34,260  INFO [main] LoginPage:55 - 
+2021-05-27 13:41:34,290  INFO [main] LoginPage:57 - print actual data..JavaByKiran | Dashboard
+2021-05-27 13:41:34,293  INFO [main] LoginPage:60 - 
+2021-05-27 13:41:34,293  INFO [main] LoginPage:63 - Title is match
+2021-05-27 13:41:34,433  INFO [main] LoginPage:76 - actual heading..
+2021-05-27 13:41:34,496  INFO [main] LoginPage:84 - Heading does not match
+2021-05-27 13:41:44,780  INFO [main] LoginPage:118 - Actual session HeadingKiran
+2021-05-27 13:41:44,795  INFO [main] LoginPage:129 - Heading does not match
+2021-05-27 13:43:55,334  INFO [main] LoginPage:41 - Validating title
+2021-05-27 13:43:56,929  INFO [main] LoginPage:55 - 
+2021-05-27 13:43:56,958  INFO [main] LoginPage:57 - print actual data..JavaByKiran | Dashboard
+2021-05-27 13:43:56,963  INFO [main] LoginPage:60 - 
+2021-05-27 13:43:56,967  INFO [main] LoginPage:63 - Title is match
+2021-05-27 13:43:57,097  INFO [main] LoginPage:76 - actual heading..
+2021-05-27 13:43:57,143  INFO [main] LoginPage:84 - Heading does not match
+2021-05-27 13:44:07,422  INFO [main] LoginPage:118 - Actual session HeadingKiran
+2021-05-27 13:44:07,422  INFO [main] LoginPage:129 - Heading does not match
+2021-05-27 13:46:10,659  INFO [main] LoginPage:41 - Validating title
+2021-05-27 13:46:12,347  INFO [main] LoginPage:55 - 
+2021-05-27 13:46:12,372  INFO [main] LoginPage:57 - print actual data..JavaByKiran | Dashboard
+2021-05-27 13:46:12,377  INFO [main] LoginPage:60 - 
+2021-05-27 13:46:12,381  INFO [main] LoginPage:63 - Title is match
+2021-05-27 13:46:12,494  INFO [main] LoginPage:76 - actual heading..
+2021-05-27 13:46:12,494  INFO [main] LoginPage:84 - Heading does not match
+2021-05-27 13:46:22,754  INFO [main] LoginPage:118 - Actual session HeadingKiran
+2021-05-27 13:46:22,754  INFO [main] LoginPage:129 - Heading does not match
+2021-05-27 20:10:36,756  INFO [main] LoginPage:45 - Url is matched
+2021-05-27 20:10:37,205  INFO [main] LoginPage:114 - Logo is displayed
+2021-05-27 20:10:37,245  INFO [main] LoginPage:58 - Title is matched
+2021-05-27 20:10:38,000  INFO [main] LoginPage:77 - Placeholders are matched
+2021-05-27 20:10:40,073  INFO [main] LoginPage:133 - Title is matched

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.listener.TestListener"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.jbk.test.LoginTest">
+        <methods>
+          <include name="validateTilte"/>
+          <include name="validateHeadingTest"/>
+          <include name="validateSubHeading"/>
+          <include name="validate_SessionHeading"/>
+          <include name="validate_WrongEmailAddress"/>
+        </methods>
+      </class> <!-- com.jbk.test.LoginTest -->
+      <class name="com.jbk.test.OperatorsTest">
+        <methods>
+          <include name="verifyPrefferedWayToConnect_PhoneCall"/>
+          <include name="verifyComplete_OperatorsTable"/>
+          <include name="verifyPrefferedWayToConnect_WhatsApp"/>
+          <include name="OperatorsPg"/>
+          <include name="verifycontactNoLength"/>
+          <include name="verifyPrefferedWayToConnect_WhatsApp_ButNot_PhoneCall"/>
+          <include name="verifyFacultiesAvailableOnMonday"/>
+          <include name="verifyNamesInAlphabeticalOrder"/>
+          <include name="verifyFacultiesNotAvailableOnSunday"/>
+          <include name="verifyPrefferedWayToConnect_WhatsApp_And_PhoneCall"/>
+        </methods>
+      </class> <!-- com.jbk.test.OperatorsTest -->
+      <class name="com.jbk.test.RegisterTest">
+        <methods>
+          <include name="verifyAlreadyMemberText"/>
+          <include name="verifyUrl"/>
+          <include name="verifyAlreadyMemberLink"/>
+          <include name="verifyValidSignIn"/>
+          <include name="verifyBlankSignIn"/>
+          <include name="verifyHeading"/>
+          <include name="verifyPlaceholders"/>
+          <include name="verifyTitle"/>
+        </methods>
+      </class> <!-- com.jbk.test.RegisterTest -->
+      <class name="com.jbk.test.DashboardTest">
+        <methods>
+          <include name="checkSeqHomeDash"/>
+          <include name="clickDownloadsAndVerifyTitle"/>
+          <include name="checkCourses"/>
+          <include name="checkLeftCornerHeading"/>
+          <include name="checkTitle"/>
+          <include name="checkSubcourse"/>
+          <include name="verifyUserStatus"/>
+          <include name="verifyTitleOnLogout"/>
+          <include name="setup"/>
+          <include name="verifyCourseSubHeading"/>
+          <include name="verifyJBK_Link"/>
+          <include name="verifyCourseHeading"/>
+          <include name="checkUrl"/>
+          <include name="verifyFooterStatement"/>
+          <include name="clickUsersAndVerifyTitle"/>
+          <include name="checkSubHeading"/>
+          <include name="verifyCoursesMoreinfo"/>
+          <include name="checkHeading"/>
+          <include name="verifyNavigationMenuText"/>
+          <include name="checkImage"/>
+          <include name="clickOperatorsAndVerifyTitle"/>
+          <include name="clickUsefulLinkAndVerifyTitle"/>
+        </methods>
+      </class> <!-- com.jbk.test.DashboardTest -->
+      <class name="com.jbk.test.DownloadTest">
+        <methods>
+          <include name="verifyNmsFor64bitBtn"/>
+          <include name="checkImage"/>
+          <include name="verifyNmsForCommanBtnAndOtherBtn"/>
+          <include name="verifyNmsForCommanColumnBlankEntry"/>
+          <include name="leftCornerHeading"/>
+          <include name="checkNavigation"/>
+          <include name="verifyTitle"/>
+          <include name="openBrowser"/>
+          <include name="verifyUrl"/>
+          <include name="verifyComplete_DownloadsTable"/>
+          <include name="verifyVendorForOfficialWebsiteColumn"/>
+          <include name="verifySubHeading"/>
+          <include name="verifyHeading"/>
+          <include name="verifyFooter"/>
+          <include name="verifyNmsFor32bitBtn"/>
+          <include name="checkRightCornerHeading"/>
+          <include name="verifyUserStatus"/>
+          <include name="checkLeftCornerHeading"/>
+          <include name="headingOfTable"/>
+          <include name="verifyVendorForVersion76"/>
+        </methods>
+      </class> <!-- com.jbk.test.DownloadTest -->
+      <class name="com.jbk.test.UsefulLinkTest">
+        <methods>
+          <include name="checkRightCornerHeading"/>
+          <include name="leftCornerHeading"/>
+          <include name="verifyClickGoExcel"/>
+          <include name="checkNavigation"/>
+          <include name="verifyComplete_UsefulLinksTable"/>
+          <include name="verifyTitle"/>
+          <include name="verifyUrl"/>
+          <include name="checkImage"/>
+          <include name="verifyHeading"/>
+          <include name="verifyClickGO"/>
+          <include name="verifyUserStatus"/>
+          <include name="checkLeftCornerHeading"/>
+          <include name="verifySubHeading"/>
+          <include name="checkHeadersOfTable"/>
+          <include name="verifyDataPresentInTable"/>
+          <include name="verifyContentForClickGo"/>
+          <include name="verifyFooter"/>
+        </methods>
+      </class> <!-- com.jbk.test.UsefulLinkTest -->
+      <class name="com.jbk.test.AddUserTest">
+        <methods>
+          <include name="verifyStateListThroughExcel"/>
+          <include name="addUser"/>
+          <include name="verifyStateList"/>
+          <include name="checkLabels"/>
+        </methods>
+      </class> <!-- com.jbk.test.AddUserTest -->
+      <class name="com.jbk.test.UsersTest">
+        <methods>
+          <include name="verifyUnameInOrder"/>
+          <include name="verifySeleniumFaculty"/>
+          <include name="verifyComplete_UsersTable"/>
+          <include name="verifyHeadingsAl"/>
+          <include name="verifyClickDeleteAlertMsg"/>
+          <include name="verifyToolTip"/>
+          <include name="verifyGmail_com"/>
+          <include name="verifyStateMaharashtra"/>
+          <include name="verifyMaleGender"/>
+          <include name="verifyMobNoLength"/>
+        </methods>
+      </class> <!-- com.jbk.test.UsersTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
